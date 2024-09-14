@@ -1,5 +1,7 @@
 I have developed a user-friendly search bar that allows users to search for countries by name or capital.
+
 **Application link:** https://ravimishra-country-capitalfinder.netlify.app/
+
 **Functional Requirements:**
 Create a visually appealing search bar component prominently displayed on the homepage and accessible throughout the site.
 Allow users to input text to search for data/ countries by name or capital.
