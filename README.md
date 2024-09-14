@@ -8,9 +8,9 @@ Allow users to input text to search for data/ countries by name or capital.
 Display search suggestions or autocomplete options as the user types.
 
 **JSON Data:**
-Use the following json data in your application to populate the search result. Json link https://dpaste.com/79QXDY8TD
+Used the following json data in your application to populate the search result. Json link https://dpaste.com/79QXDY8TD
 
 
 **Tools and Technologies:**
 
-**React:** Use React for building the user interface and managing component-based front-end development,and create an attractive UI with CSS or by using external frameworks.
+**React:** Used React for building the user interface and managing component-based front-end development,and created an attractive UI with CSS or by using external frameworks.
