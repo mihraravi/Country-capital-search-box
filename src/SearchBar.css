@@ -1,0 +1,33 @@
+/* src/SearchBar.css */
+
+.search-container {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .search-input {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .suggestions-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .suggestions-list li {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+  
+  .suggestions-list li:hover {
+    background-color: #eee;
+  }
+  
